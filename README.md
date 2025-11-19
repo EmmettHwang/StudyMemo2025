@@ -1,3 +1,4 @@
+# 마크 다운 (MarkDown 문법) 
 # StudyMemo2025 가장 큰 글씨 
 ## 중간글씨 
 ### 작은 제목
@@ -21,3 +22,8 @@
 2. 두번째 항목   
    2.1 항목 들여쓰기
 3. 세번째 항목
+
+#### 링크 만들기 
+링크 만들기 [깃허브 공식 웹사이트](https://github.com/)
+이미지 연결 하기 ![고양이 사진](https://cataas.com/cat)
+클립보드에 복사된 이미지를 그냥 붙여 넣기 하면? <img width="1380" height="1016" alt="band커버" src="https://github.com/user-attachments/assets/1acca35e-f030-4a5f-b078-88f9ba25941b" />
