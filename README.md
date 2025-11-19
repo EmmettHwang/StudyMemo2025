@@ -24,6 +24,7 @@
 3. 세번째 항목
 
 #### 링크 만들기 
-링크 만들기 [깃허브 공식 웹사이트](https://github.com/)
-이미지 연결 하기 ![고양이 사진](https://cataas.com/cat)
-클립보드에 복사된 이미지를 그냥 붙여 넣기 하면? <img width="1380" height="1016" alt="band커버" src="https://github.com/user-attachments/assets/1acca35e-f030-4a5f-b078-88f9ba25941b" />
+링크 만들기 [깃허브 공식 웹사이트](https://github.com/) (**줄바꾸기는 빈칸 3개**)   
+이미지 연결 하기 ![고양이 사진](https://cataas.com/cat)   
+클립보드에 복사된 이미지를 그냥 붙여 넣기 하면? 
+<img width="1380" height="1016" alt="band커버" src="https://github.com/user-attachments/assets/1acca35e-f030-4a5f-b078-88f9ba25941b" />
